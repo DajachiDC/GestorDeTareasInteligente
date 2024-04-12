@@ -10,4 +10,4 @@ Este programa, creado en Python, te ayudara a crear notas con su categoria y fec
 5. Abres la carpeta, luego habres una terminal en ese directorio.
 6. Para ejecutar el programa, escribe en la terminal el siguiente comando:
  - python3 GestorDeTareasinteligente.py
-7. Lugo ya tendras el programa funcionando.
+7. Luego, tendras el programa funcionando.
