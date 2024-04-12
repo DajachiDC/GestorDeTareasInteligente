@@ -1,5 +1,16 @@
 tareas = []
 
+print("\n-----------------------")
+print("Creado por: Dajachi")
+print("\nRedes:\n")
+print("YouTube: https://www.youtube.com/@Dajachi")
+print("Twitter: https://twitter.com/Dajachi_?t=bdLmG03jQZQPYeqAwXXYIA&s=09")
+print("Tik Tok: https://tiktok.com/@dajachi_?t=8l5UUUjLBvZ&_r=1")
+print("GitHub: https://github.com/DajachiDC")
+print("Blog: https://dajachicode.blogspot.com")
+print("\n¡Gracias por utilizar el programa!")
+print("-------------------------")
+
 while True:
     print("\n*** Bienvenido al Gestor de Tareas Inteligente ***")
     print("\n1. Agregar tarea")
