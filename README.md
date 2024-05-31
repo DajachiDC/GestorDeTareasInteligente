@@ -1,4 +1,6 @@
 # Gestor De Tareas Inteligente
+![imagen](https://github.com/DajachiDC/GestorDeTareasInteligente/assets/164821148/7b1abcb7-a1a1-4b6c-a253-0996254be594)
+
 Este programa, creado en Python, te ayudara a crear notas con su categoria y fecha límite, ver la lista de las notas y eliminarlas.
 
 # Pasos para copiar el repositorio en tu PC.
